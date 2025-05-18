@@ -44,6 +44,7 @@ Since 'e' is the most frequency used char, we always initialize our first guess 
    ```bash
    pip install requests
 
-## Autho Information
+## Author Information
 **Name** Zhao Wenzhe
+
 **Email** wenzhe.zhao@outlook.com
